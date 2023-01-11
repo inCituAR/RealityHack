@@ -1,13 +1,8 @@
-![alt_text](images/image1.png "image_tooltip")
-
-
-
 ## inCitu x MIT Reality Hack
-
 
 ### **What we do**
 
-inCitu is bringing future cities to life via augmented reality to establish an effective collaboration between residents, developers, and city governments in the process of urban change. We turn planning and development data into mobile, real–world scale AR experiences, which are enabled through mobile apps, browser–based AR, and integrations to existing tech platforms and social media. All of our projects to date proved that AR creates more YIMBYs: experiencing future developments as if they are already built makes people more comfortable with change and with density in particular. 
+[inCitu](https://www.incitu.us/) is bringing future cities to life via augmented reality to establish an effective collaboration between residents, developers, and city governments in the process of urban change. We turn planning and development data into mobile, real–world scale AR experiences, which are enabled through mobile apps, browser–based AR, and integrations to existing tech platforms and social media. All of our projects to date proved that AR creates more YIMBYs: experiencing future developments as if they are already built makes people more comfortable with change and with density in particular. 
 
 
 ### **Using inCitu data during the hackathon**
@@ -23,7 +18,7 @@ In this hackathon, inCitu is giving access to a** subset of our future developme
 The 3D assets are available for you to use in the following ways: 
 
 
-### **ArcGIS **
+### 1. Through ArcGIS
 
 The layer can be accessed through any of the [ArcGIS SDKs](https://developers.arcgis.com/documentation/mapping-apis-and-services/apis-and-sdks/),  \
 Example: [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/)  \
@@ -48,7 +43,7 @@ Individual development - 250 and 290 Binney St:
 [https://incitu.maps.arcgis.com/home/item.html?id=bc388850d5084317aa5f4ae69a410c6b](https://incitu.maps.arcgis.com/home/item.html?id=bc388850d5084317aa5f4ae69a410c6b)
 
 
-### **Echo3D XR cloud**
+### 2. Through Echo3D XR cloud
 
 To access the individual models without the map context, use: 
 
