@@ -41,7 +41,7 @@ Query URL: https://api.echo3D.co/query?key=white-violet-3553&secKey=UOIWRfhNdMfL
 
 *Secret: UOIWRfhNdMfLWolYSlNHhrhy&src*
 
-**Entry IDs:
+**Entry IDs:**
 
 *250 and 290 Binney St: 4fc381ad-a144-49e1-8734-a535296c3450*
 
