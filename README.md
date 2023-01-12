@@ -37,9 +37,9 @@ To access the individual models without the map context, follow the instuctions 
  \
 Query URL: https://api.echo3D.co/query?key=white-violet-3553&secKey=UOIWRfhNdMfLWolYSlNHhrhy&src=UnitySDK&entries=d4a7d0c4-7270-489e-94f3-6207b74d010e 
 
-*API Key: white-violet-3553
+API Key: white-violet-3553
 
-*Secret: UOIWRfhNdMfLWolYSlNHhrhy&src
+Secret: UOIWRfhNdMfLWolYSlNHhrhy&src
 
 **Entry IDs:
 
