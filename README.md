@@ -7,8 +7,7 @@
 
 ### **Using inCitu data during the hackathon**
 
-inCitu is an Esri Partner and a Sponsor of the MIT Reality Hack 2023. 
-
+inCitu is a Sponsor of the MIT Reality Hack 2023, and an Esri partner. 
 In this hackathon, inCitu is giving access to a** subset of our future development database**, featuring **3 real upcoming structures around the hackathon** area in Cambridge:  
 
 250/290 Binney St. and 585 Kendall St. 
@@ -22,40 +21,23 @@ The 3D assets are available for you to use in the following ways:
 
 The layer can be accessed through any of the [ArcGIS SDKs](https://developers.arcgis.com/documentation/mapping-apis-and-services/apis-and-sdks/),  \
 Example: [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/)  \
-
-
  \
 Link to Scene with OSM layer:
-
 [https://incitu.maps.arcgis.com/home/item.html?id=cd8dea29ec7d4a6b9052948ed7c04de9](https://incitu.maps.arcgis.com/home/item.html?id=cd8dea29ec7d4a6b9052948ed7c04de9)
-
  \
-Link to Scene without OSM layer:
-
-[https://incitu.maps.arcgis.com/home/item.html?id=324fcd6e7d0d46e485d697fc3c6be2da](https://incitu.maps.arcgis.com/home/item.html?id=324fcd6e7d0d46e485d697fc3c6be2da)
-
+[Link to Scene without OSM layer](https://incitu.maps.arcgis.com/home/item.html?id=324fcd6e7d0d46e485d697fc3c6be2da)
  \
-Individual development - 585 Kendall St.: [https://incitu.maps.arcgis.com/home/item.html?id=e291ca18dfea44ae83285cb566f84344](https://incitu.maps.arcgis.com/home/item.html?id=e291ca18dfea44ae83285cb566f84344)
-
+[Individual development - 585 Kendall St.](https://incitu.maps.arcgis.com/home/item.html?id=e291ca18dfea44ae83285cb566f84344)
  \
-Individual development - 250 and 290 Binney St:
-
-[https://incitu.maps.arcgis.com/home/item.html?id=bc388850d5084317aa5f4ae69a410c6b](https://incitu.maps.arcgis.com/home/item.html?id=bc388850d5084317aa5f4ae69a410c6b)
+[Individual development - 250 and 290 Binney St](https://incitu.maps.arcgis.com/home/item.html?id=bc388850d5084317aa5f4ae69a410c6b)
 
 
 ### 2. Through Echo3D XR cloud
 
-To access the individual models without the map context, use: 
-
-[Installing the Echo3D Unity SDK](https://docs.echo3d.com/unity/installation#installation-and-features-review)**, [Hologram script settings](https://docs.echo3d.com/unity/hologram-script-settings#experimental-editor-preview) \
+To access the individual models without the map context, follow the instuctions for [installing the Echo3D Unity SDK](https://docs.echo3d.com/unity/installation#installation-and-features-review) and for [Hologram script settings](https://docs.echo3d.com/unity/hologram-script-settings#experimental-editor-preview) \
  \
-Query URL: **https://api.echo3D.co/query?key=white-violet-3553&secKey=UOIWRfhNdMfLWolYSlNHhrhy&src=UnitySDK&entries=d4a7d0c4-7270-489e-94f3-6207b74d010e \
-**API Key: **white-violet-3553
-
-**Secret:** UOIWRfhNdMfLWolYSlNHhrhy&src
-
-**Entry IDs: **
-
-**250 and 290 Binney St:** 4fc381ad-a144-49e1-8734-a535296c3450
-
-**585 Kendall St:** 957281db-e0a1-487f-a2f2-1ed742e33ea3
+Query URL: https://api.echo3D.co/query?key=white-violet-3553&secKey=UOIWRfhNdMfLWolYSlNHhrhy&src=UnitySDK&entries=d4a7d0c4-7270-489e-94f3-6207b74d010e *API Key: white-violet-3553
+*Secret: UOIWRfhNdMfLWolYSlNHhrhy&src
+**Entry IDs:
+*250 and 290 Binney St: 4fc381ad-a144-49e1-8734-a535296c3450
+*585 Kendall St: 957281db-e0a1-487f-a2f2-1ed742e33ea3
