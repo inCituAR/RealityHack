@@ -35,8 +35,14 @@ Example: [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/)  \
 
 To access the individual models without the map context, follow the instuctions for [installing the Echo3D Unity SDK](https://docs.echo3d.com/unity/installation#installation-and-features-review) and for [Hologram script settings](https://docs.echo3d.com/unity/hologram-script-settings#experimental-editor-preview) \
  \
-Query URL: https://api.echo3D.co/query?key=white-violet-3553&secKey=UOIWRfhNdMfLWolYSlNHhrhy&src=UnitySDK&entries=d4a7d0c4-7270-489e-94f3-6207b74d010e *API Key: white-violet-3553
+Query URL: https://api.echo3D.co/query?key=white-violet-3553&secKey=UOIWRfhNdMfLWolYSlNHhrhy&src=UnitySDK&entries=d4a7d0c4-7270-489e-94f3-6207b74d010e 
+
+*API Key: white-violet-3553
+
 *Secret: UOIWRfhNdMfLWolYSlNHhrhy&src
+
 **Entry IDs:
-*250 and 290 Binney St: 4fc381ad-a144-49e1-8734-a535296c3450
-*585 Kendall St: 957281db-e0a1-487f-a2f2-1ed742e33ea3
+
+250 and 290 Binney St: 4fc381ad-a144-49e1-8734-a535296c3450
+
+585 Kendall St: 957281db-e0a1-487f-a2f2-1ed742e33ea3
