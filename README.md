@@ -24,9 +24,9 @@ Example: [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/)  \
  \
 [Link to Scene without OSM layer](https://incitu.maps.arcgis.com/home/item.html?id=324fcd6e7d0d46e485d697fc3c6be2da)
  \
-[Individual development - 585 Kendall St.](https://incitu.maps.arcgis.com/home/item.html?id=e291ca18dfea44ae83285cb566f84344)
+[Individual development - 585 Kendall St.](https://incitu.maps.arcgis.com/home/item.html?id=4057d50bec8948698b0bbc5e183c6971)
  \
-[Individual development - 250 and 290 Binney St](https://incitu.maps.arcgis.com/home/item.html?id=bc388850d5084317aa5f4ae69a410c6b)
+[Individual development - 250 and 290 Binney St.](https://incitu.maps.arcgis.com/home/item.html?id=bc388850d5084317aa5f4ae69a410c6b)
 
 
 ### 2. Through Echo3D XR cloud
