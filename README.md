@@ -22,8 +22,7 @@ The 3D assets are available for you to use in the following ways:
 The layer can be accessed through any of the [ArcGIS SDKs](https://developers.arcgis.com/documentation/mapping-apis-and-services/apis-and-sdks/),  \
 Example: [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/)  \
  \
-Link to Scene with OSM layer:
-[https://incitu.maps.arcgis.com/home/item.html?id=cd8dea29ec7d4a6b9052948ed7c04de9](https://incitu.maps.arcgis.com/home/item.html?id=cd8dea29ec7d4a6b9052948ed7c04de9)
+[Link to Scene with OSM layer](https://incitu.maps.arcgis.com/home/item.html?id=cd8dea29ec7d4a6b9052948ed7c04de9)
  \
 [Link to Scene without OSM layer](https://incitu.maps.arcgis.com/home/item.html?id=324fcd6e7d0d46e485d697fc3c6be2da)
  \
