@@ -7,12 +7,12 @@
 
 ### **Using inCitu data during the hackathon**
 
-inCitu is a Sponsor of the MIT Reality Hack 2023, and an Esri partner. 
+inCitu is a Sponsor of the MIT Reality Hack 2023 and an Esri partner. 
 In this hackathon, inCitu is giving access to a **subset of our future development database**, featuring **3 real upcoming structures around the hackathon** area in Cambridge:  
 
 250/290 Binney St. and 585 Kendall St. 
 
-## How might we leverage complex real estate and GIS data into an elegant, tangible view of our built surroundings to create an informative, responsive and empowering built environment to all?
+## How might we leverage complex real estate and GIS data into an elegant, tangible view of our built surroundings to create an informative, responsive, and empowering built environment to all?
 
 The 3D assets are available for you to use in the following ways: 
 
