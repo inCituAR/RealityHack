@@ -8,9 +8,7 @@
 ### **Using inCitu data during the hackathon**
 
 inCitu is a Sponsor of the MIT Reality Hack 2023 and an Esri partner. 
-In this hackathon, inCitu is giving access to a **subset of our future development database**, featuring **3 real upcoming structures around the hackathon** area in Cambridge:  
-
-250/290 Binney St. and 585 Kendall St. 
+In this hackathon, inCitu is giving access to a **subset of our future development database**, featuring **3 real upcoming structures around the hackathon** area in Cambridge: 250/290 Binney St. and 585 Kendall St. 
 
 ## How might we leverage complex real estate and GIS data into an elegant, tangible view of our built surroundings to create an informative, responsive, and empowering built environment to all?
 
@@ -45,4 +43,6 @@ Query URL: https://api.echo3D.co/query?key=white-violet-3553&secKey=UOIWRfhNdMfL
 
 *250 and 290 Binney St: 4fc381ad-a144-49e1-8734-a535296c3450*
 
-*585 Kendall St: 957281db-e0a1-487f-a2f2-1ed742e33ea3*
+*585 Kendall St: 957281db-e0a1-487f-a2f2-1ed742e33ea3* 
+
+[See here for accessing more data on the development in Echo3D](https://docs.echo3d.com/objects) 
